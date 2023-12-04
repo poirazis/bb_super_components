@@ -10,3 +10,15 @@
 [submodule "bb-component-SuperTable"]
 	path = bb-component-SuperTable
 	url = https://github.com/poirazis/bb-component-SuperTable
+[submodule "bb-component-SuperOdometer"]
+	path = bb-component-SuperOdometer
+	url = https://github.com/poirazis/bb-component-SuperOdometer
+[submodule "bb-component-SuperGauge"]
+	path = bb-component-SuperGauge
+	url = https://github.com/poirazis/bb-component-SuperGauge
+[submodule "bb-component-SuperTableColumn"]
+	path = bb-component-SuperTableColumn
+	url = https://github.com/poirazis/bb-component-SuperTableColumn
+[submodule "bb-component-SuperTableCell"]
+	path = bb-component-SuperTableCell
+	url = https://github.com/poirazis/bb-component-SuperTableCell
