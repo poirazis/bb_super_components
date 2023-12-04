@@ -1,3 +1,12 @@
 [submodule "bb-component-SuperContainer"]
 	path = bb-component-SuperContainer
 	url = https://github.com/poirazis/bb-component-SuperContainer
+[submodule "bb-component-SuperFilter"]
+	path = bb-component-SuperFilter
+	url = https://github.com/poirazis/bb-component-SuperFilter
+[submodule "bb-component-SuperField"]
+	path = bb-component-SuperField
+	url = https://github.com/poirazis/bb-component-SuperField
+[submodule "bb-component-SuperTable"]
+	path = bb-component-SuperTable
+	url = https://github.com/poirazis/bb-component-SuperTable
