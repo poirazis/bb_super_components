@@ -22,3 +22,6 @@
 [submodule "bb-component-SuperTableCell"]
 	path = bb-component-SuperTableCell
 	url = https://github.com/poirazis/bb-component-SuperTableCell
+[submodule "bb-component-SuperFieldGroup"]
+	path = bb-component-SuperFieldGroup
+	url = https://github.com/poirazis/bb-component-SuperFieldGroup
