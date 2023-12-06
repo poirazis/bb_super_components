@@ -25,3 +25,6 @@
 [submodule "bb-component-SuperFieldGroup"]
 	path = bb-component-SuperFieldGroup
 	url = https://github.com/poirazis/bb-component-SuperFieldGroup
+[submodule "bb-component-SuperButton"]
+	path = bb-component-SuperButton
+	url = https://github.com/poirazis/bb-component-SuperButton
