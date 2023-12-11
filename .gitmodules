@@ -28,3 +28,6 @@
 [submodule "bb-component-SuperButton"]
 	path = bb-component-SuperButton
 	url = https://github.com/poirazis/bb-component-SuperButton
+[submodule "bb_super_components_shared"]
+	path = bb_super_components_shared
+	url = https://github.com/poirazis/bb_super_components_shared
