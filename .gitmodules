@@ -37,3 +37,6 @@
 [submodule "bb-component-SuperToolbar"]
 	path = bb-component-SuperToolbar
 	url = https://github.com/poirazis/bb-component-SuperToolbar
+[submodule "bb-component-SuperSliderField"]
+	path = bb-component-SuperSliderField
+	url = https://github.com/poirazis/bb-component-SuperSliderField
