@@ -31,3 +31,9 @@
 [submodule "bb_super_components_shared"]
 	path = bb_super_components_shared
 	url = https://github.com/poirazis/bb_super_components_shared
+[submodule "bb-component-SuperFieldRepeatable"]
+	path = bb-component-SuperFieldRepeatable
+	url = https://github.com/poirazis/bb-component-SuperFieldRepeatable
+[submodule "bb-component-SuperToolbar"]
+	path = bb-component-SuperToolbar
+	url = https://github.com/poirazis/bb-component-SuperToolbar
