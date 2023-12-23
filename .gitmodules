@@ -40,3 +40,6 @@
 [submodule "bb-component-SuperSliderField"]
 	path = bb-component-SuperSliderField
 	url = https://github.com/poirazis/bb-component-SuperSliderField
+[submodule "bb-component-SuperFieldOptions"]
+	path = bb-component-SuperFieldOptions
+	url = https://github.com/poirazis/bb-component-SuperFieldOptions
