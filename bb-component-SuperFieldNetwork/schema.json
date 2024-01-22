@@ -3,9 +3,10 @@
   "metadata": {},
   "schema": {
     "name": "bb-component-SuperFieldNetwork",
-    "friendlyName": "bb-component-SuperFieldNetwork",
-    "description": "A Network Input Field for Budibase",
-    "icon": "Text",
+    "friendlyName": "Super Field - Network",
+    "description": "A Network Address Input Field for Budibase",
+    "author" : {"name": "Michael Poirazi", "url" : "https://github.com/poirazis"},
+    "icon": "GlobeGrid",
     "settings": [
       {
         "type": "text",
